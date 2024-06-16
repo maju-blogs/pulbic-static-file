@@ -1,1 +1,1 @@
-# pulbic-static-file
+静态资源存放
